@@ -1218,7 +1218,6 @@ public class Blocks implements ContentList{
             updateEffectChance = 0.05f;
             pumpAmount = 0.25f;
             size = 3;
-            liquidCapacity = 30f;
             attribute = Attribute.oil;
 
             consumes.item(Items.sand);
